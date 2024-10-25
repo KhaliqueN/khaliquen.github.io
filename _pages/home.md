@@ -1,7 +1,7 @@
 ---
 title: "Nestome Lab - Home"
 layout: homelay
-excerpt: "Nestome Lab at Leiden University &rarr; LMU."
+excerpt: "Nestome Lab at the Institute for Computational Systems Biology"
 sitemap: false
 permalink: /
 ---
